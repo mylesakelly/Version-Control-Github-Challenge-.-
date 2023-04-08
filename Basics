@@ -1,0 +1,16 @@
+Medium challenge: The terminal is used to easily navigate your computer. 
+When you first open the terminal you will see the user, box and the folder.
+From there you can easily navigate to your Desktop using the command cd dir
+From the desktop you can creat new folders and files and delete folders and files.
+Files can also be edited using the vi file command. 
+Other commands such as pwd and ls can help you better navigate your folders on your Desktop.
+
+The difference between Git and Github is that Git lets you
+manage and keep track of your source code. As you make changes in your code
+Git allows you to go back to your previous versions of your code.
+Git-hub on the other hand is a cloud-based hosting service that lets you 
+manage your repositories.
+
+We use Github to manage our repositories. Github can also be used
+to collaborate with other developers on open-source projects. It can also
+be used as a social networking site where developers can network with each other.    
